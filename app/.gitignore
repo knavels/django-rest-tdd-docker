@@ -111,6 +111,5 @@ media/
 !**/migrations
 !**/migrations/__init__.py
 
-db.sqlite3
 __pychache__
 media
